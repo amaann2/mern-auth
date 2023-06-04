@@ -1,0 +1,1 @@
+const nodemailer = requier("nodemailer");
